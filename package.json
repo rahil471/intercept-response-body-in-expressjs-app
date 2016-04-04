@@ -1,0 +1,17 @@
+{
+  "name": "intercept-response-express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "Rahil Shaikh <rahilsk47@gmail.com> (http://www.ciphertrick.com)",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.13.4",
+    "express-mung": "^0.4.2",
+    "morgan": "^1.7.0",
+    "winston": "^2.2.0"
+  }
+}
